@@ -33,8 +33,7 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Certik Foundation](https://shield.certik.foundation/)
 * [Cover Protocol](https://www.coverprotocol.com/)
 * [Unslashed Finance](https://unslashed.finance)
-* * [Nayms](https://nayms.io/)
-
+* [Nayms](https://nayms.io/)
 * [Risk Harbor](https://www.riskharbor.com/)
 * [3F Mutual / Hakka Finance](https://3fmutual.com/)
 * [Atomica](https://atomica.org/)
@@ -48,6 +47,7 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Tidal Finance](https://tidal.finance/)
 * [Protekt Protocol](https://www.protektprotocol.com/)
 * [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
+* [Shield Finance](https://shieldfinance.net/)
 
 ## Developer Tools
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.

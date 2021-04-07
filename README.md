@@ -1,21 +1,13 @@
 # DeFi Risk Tools List
-A list of the available tools, projects, and platforms for analyzing and managing risk within DeFI.
+A list of the available tools, projects, and protocols for analyzing and managing risk within DeFI.
 
 Creation of this list was spurred by folks at [ArmorFi](https://armor.fi/) and [ConsenSys](https://consensys.net/) who saw a need for better sharing of tools, standards, and development patterns to encourage the safe and continued growth of the DeFi ecosystem.
 
 ## Contributions are welcome!
-
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.
-* Projects that do not have a working product can only be added to the *Coming Soon* section
+* Projects that do not have a working product can only be added to the *Coming Soon* section.
 * Projects that are deprecated or no longer maintained will be removed.
-* Projects that are paid/restricted services without open source code or developer reviews will be further vetted.pho
-
-## Table of Contents
-- [The Basics of DeFi Risk]()
-- [Risk Analysis Frameworks]()
-- [Risk Management Projects]()
-- [Developer Tools]()
-- [Developer Tools]()
+* Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
 
 ## The Basics of DeFi Risk
 Building on the work of awesome projects like DeFi Score, Nexus Mutual, Aave's Safety Modules, and others, we believe that large technical vulnerabilities are the biggest risk to a thriving DeFi community over the next few years. Smart contracts that contain large amounts of value face the following risks:
@@ -28,35 +20,34 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [DeFi Score](https://defiscore.io/) - A 1-10 grade on the smart contract, centralization, and financial risk of lending protocols
 * [Economic Safety Grade from DeFi Pulse & Gauntlet](https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/) - A 1 to 100 grade to quantify and compare the economic risks of using on-chain protocols
 * [DeFi Safety](https://defisafety.com/) - A 1-100 rating of smart contract quality and safety for DeFi apps
+* [Certik Security Scores](https://www.certik.org/) - A 1-100 score across on-chain monitoring, social sentiment, governance changes, and market volatility
 
 ## Hack Incident Reporting
-* [Rekt News](https://www.rekt.news/) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
-
-* [Blockchain Threat Intelligence](https://blockthreat.substack.com/)
-* [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/)
-
-
+* [Rekt News](https://www.rekt.news/) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community
+* [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape
+* [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
 ## Risk Management Projects
 * [Nexus Mutual](https://nexusmutual.io/)
-* [ArmorFi](https://twitter.com/armorfi)
-* [Cover Protocol](https://www.coverprotocol.com/)
+* [ArmorFi](https://armor.fi/)
 * [Certik Foundation](https://shield.certik.foundation/)
-* [Tidal Finance](https://tidal.finance/)
+* [Cover Protocol](https://www.coverprotocol.com/)
+* [Unslashed Finance](https://unslashed.finance)
+* * [Nayms](https://nayms.io/)
+
+* [Risk Harbor](https://www.riskharbor.com/)
 * [3F Mutual / Hakka Finance](https://3fmutual.com/)
 * [Atomica](https://atomica.org/)
-* [Cozy.finance](https://cozy.finance/)
-* [Upshot Protocol](https://medium.com/upshothq/introducing-upshot-one-a-q-a-protocol-58dd4ba0d612)
-* [Protekt Protocol](https://www.protektprotocol.com/)
 * [UNION](https://www.unn.finance)
 * [NSure](https://nsure.network/#/)
-* [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
-* [XRisk Protocol](https://twitter.com/xriskprotocol/status/1343316689023348743?s=20)
-* [Opium Network](https://medium.com/opium-network/introducing-opium-insurance-231bacdac44)
+* [Opium Network](https://opium.finance/)
 * [Bridge Mutual](https://www.bridgemutual.io)
-* [Unslashed Finance](https://unslashed.finance)
-* [Nayms](https://nayms.io/)
-* [ImmuneFi](https://immunefi.com/)
+
+## Coming Soon
+* [Cozy.finance](https://cozy.finance/)
+* [Tidal Finance](https://tidal.finance/)
+* [Protekt Protocol](https://www.protektprotocol.com/)
+* [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
 
 ## Developer Tools
 * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
@@ -82,8 +73,7 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Gemini's Cryptopedia](https://www.gemini.com/cryptopedia/explore#security)
 * [Paradigm's CFT](https://ctf.paradigm.xyz/) - Challenges to learn common smart contract failures
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Challenges to understand common DeFi vulnerabilities
-
-
+* [ImmuneFi](https://immunefi.com/) - Bug bounties on smart contract vulnerabilities
 
 ## Further Work
 * Hack Event Registry - The Hack Event Registry is an accessible resource for learning about past DeFi vulnerabilities/exploits and helping prevent them in the future. The goal is to support the DeFi ecosystem by documenting and learning from all past hacks/technical bugs/exploits. With better historical information and learning, risk will be priced more fairly and accurately.

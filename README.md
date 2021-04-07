@@ -23,11 +23,11 @@ We hope that the resources below can help educate and evangelize the common meth
 
 ## Risk Ratings
 * [DeFi Score](https://defiscore.io/) - A 1-10 grade on the smart contract, centralization, and financial risk of lending protocols
-* [Economic Safety Grade from DeFi Pulse & Gauntlet](https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/) - A 1 to 100 grade to quantify and compare the economic risks of using on-chain protocols
+* [Economic Safety Grade from DeFi Pulse & Gauntlet](https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/) - A 1-100 grade to quantify and compare the economic risks of using on-chain protocols
 * [DeFi Safety](https://defisafety.com/) - A 1-100 rating of smart contract quality and safety for DeFi apps
-* [Certik Security Scores](https://www.certik.org/) - A 1-100 score across on-chain monitoring, social sentiment, governance changes, and market volatility
-* [CER Security Score](https://cer.live/defi) - A 1-10 based on audits, bug bounties, and liquidity
-* [CoinGecko Trsut Score](https://www.coingecko.com/en/methodology) - A 1-10 on centralized exchanges as well as a Green/Yellow/Red rating the liquidity of certain trading pairs
+* [Certik Security Scores](https://www.certik.org/) - A 1-100 score of protocols across on-chain monitoring, social sentiment, governance changes, and market volatility
+* [CER Security Score](https://cer.live/defi) - A 1-10 score on protocols based on audits, bug bounties, and liquidity
+* [CoinGecko Trsut Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs
 
 ## Hack Incident Reporting
 * [Rekt News](https://www.rekt.news/) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community

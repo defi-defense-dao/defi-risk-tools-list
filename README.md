@@ -1,22 +1,25 @@
 # DeFi Risk Tools List
 A list of the available tools, projects, and protocols for analyzing and managing risk within DeFI.
 
-Creation of this list was spurred by folks at [ArmorFi](https://armor.fi/) and [ConsenSys](https://consensys.net/) who saw a need for better sharing of tools, standards, and development patterns to support the safe growth of the DeFi ecosystem. We hope the list is useful for DeFi protocols, whitehate hackers, developers, auditors, and users under the common goal of making DeFi safer for current and future adopters.
+Note that this list is focused on technical, centralization, and liquidity risk of DeFi protocols, **NOT price risk of tokens.**
 
-Note that these resources are focused on technical, centralization, and liquidity risk of DeFi protocols, **NOT Price risk of tokens.**
+We hope that better sharing of tools, standards, and development patterns will support the safe growth of the DeFi ecosystem overall and that DeFi protocols, whitehate hackers, developers, auditors, and users can unite around the common goal of making DeFi safer for current and future adopters.
 
 ## Contributions are welcome!
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.
-* Projects that do not have a working product can only be added to the *Coming Soon* section.
+* Projects that do not have a working product should only be added to the *Coming Soon* section.
 * Projects that are deprecated or no longer maintained will be removed.
 * Projects that are paid/restricted services without open source code or developer reviews will be further vetted.
 
 ## The Basics of DeFi Risk
-Building on the work of awesome projects like DeFi Score, Nexus Mutual, Aave's Safety Modules, and others, we believe that large technical vulnerabilities are the biggest risk to a thriving DeFi community over the next few years. Smart contracts that contain large amounts of value face the following risks:
+Building on the work of awesome projects like [DeFi Score](https://defiscore.io/), [DeFi Safety](https://defisafety.com/), and others, we believe that the systematic failure of large financial protocols is the biggest risk to a thriving DeFi community over the next few years.
 
-Smart Contract Risk - Technical bugs that can expose funds to hackers
-Centralization Risk - Centralized admin keys are stolen or used nefariously, or oracles are manipulated to allow an exploit
-Financial Risk - Collateral falls below outstanding obligations, likely due to price movement, or low liquidity leads to locked funds
+Protocols and smart contracts that contain large amounts of value face the following risks:
+* Smart Contract Risk - Technical bugs that can expose funds to hackers
+* Centralization Risk - Centralized admin keys are stolen or used nefariously, or oracles are manipulated to allow an exploit
+* Financial Risk - Collateral falls below outstanding obligations, likely due to price movement, or low liquidity leads to locked funds
+
+We hope that the resources below can help educate and evangelize the common methods of failure, so they can eliminated or mitigated as more groundbreaking financial services are built in this space.
 
 ## Risk Ratings
 * [DeFi Score](https://defiscore.io/) - A 1-10 grade on the smart contract, centralization, and financial risk of lending protocols
@@ -87,3 +90,6 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * Hack Event Registry - An accessible resource for learning about past DeFi vulnerabilities/exploits and helping prevent them in the future
 * Bug Bounties - Aggregate bug bounties across protocols and provide funding for new bounties
 * Form a DeFi risk-focused DAO
+
+## Maintainers
+Creation of this list was spurred by the good folks at [ArmorFi](https://armor.fi/) and [ConsenSys Codefi](https://consensys.net/codefi/).

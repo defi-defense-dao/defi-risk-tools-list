@@ -3,7 +3,7 @@ A list of the available tools, projects, and protocols for analyzing and managin
 
 Creation of this list was spurred by folks at [ArmorFi](https://armor.fi/) and [ConsenSys](https://consensys.net/) who saw a need for better sharing of tools, standards, and development patterns to encourage the safe and continued growth of the DeFi ecosystem.
 
-**Note that these resources are focused on technical, centralization, and liquidity risk of DeFi protocol, NOT Price risk of tokens**
+Note that these resources are focused on technical, centralization, and liquidity risk of DeFi protocols, **NOT Price risk of tokens.**
 
 ## Contributions are welcome!
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.

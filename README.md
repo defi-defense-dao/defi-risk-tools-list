@@ -3,6 +3,8 @@ A list of the available tools, projects, and protocols for analyzing and managin
 
 Creation of this list was spurred by folks at [ArmorFi](https://armor.fi/) and [ConsenSys](https://consensys.net/) who saw a need for better sharing of tools, standards, and development patterns to encourage the safe and continued growth of the DeFi ecosystem.
 
+**Note that these resources are focused on technical, centralization, and liquidity risk of DeFi protocol, NOT Price risk of tokens**
+
 ## Contributions are welcome!
 Feel free to submit a pull request, with anything from small fixes to translations to tools you'd like to add (or remove!). If adding a new tool, **please add a brief description** that you think new developers would understand.
 * Projects that do not have a working product can only be added to the *Coming Soon* section.
@@ -13,7 +15,7 @@ Feel free to submit a pull request, with anything from small fixes to translatio
 Building on the work of awesome projects like DeFi Score, Nexus Mutual, Aave's Safety Modules, and others, we believe that large technical vulnerabilities are the biggest risk to a thriving DeFi community over the next few years. Smart contracts that contain large amounts of value face the following risks:
 
 Smart Contract Risk - Technical bugs that can expose funds to hackers
-Centralization Risk - Centralized admin keys are stolen or used nefariously or oracles are manipulated to allow an exploit
+Centralization Risk - Centralized admin keys are stolen or used nefariously, or oracles are manipulated to allow an exploit
 Financial Risk - Collateral falls below outstanding obligations, likely due to price movement, or low liquidity leads to locked funds
 
 ## Risk Ratings
@@ -27,7 +29,7 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
-## Risk Management Projects
+## Risk Management Projects & Protocols
 * [Nexus Mutual](https://nexusmutual.io/)
 * [ArmorFi](https://armor.fi/)
 * [Certik Foundation](https://shield.certik.foundation/)
@@ -36,11 +38,11 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Nayms](https://nayms.io/)
 * [Risk Harbor](https://www.riskharbor.com/)
 * [3F Mutual / Hakka Finance](https://3fmutual.com/)
+* [Bridge Mutual](https://www.bridgemutual.io)
 * [Atomica](https://atomica.org/)
 * [UNION](https://www.unn.finance)
 * [NSure](https://nsure.network/#/)
 * [Opium Network](https://opium.finance/)
-* [Bridge Mutual](https://www.bridgemutual.io)
 
 ## Coming Soon
 * [Cozy.finance](https://cozy.finance/)
@@ -50,7 +52,8 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Shield Finance](https://shieldfinance.net/)
 
 ## Developer Tools
-* [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
+* Technical Risks
+  * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 * [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis
@@ -70,12 +73,12 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
 
 ## Risk and Security Resources
-* [Gemini's Cryptopedia](https://www.gemini.com/cryptopedia/explore#security)
+* [Gemini's Cryptopedia](https://www.gemini.com/cryptopedia/explore#security) - Accessible encyclopedia on crypto security topics
 * [Paradigm's CFT](https://ctf.paradigm.xyz/) - Challenges to learn common smart contract failures
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Challenges to understand common DeFi vulnerabilities
 * [ImmuneFi](https://immunefi.com/) - Bug bounties on smart contract vulnerabilities
 
-## Further Work
+## Further Work (To be discussed)
 * Hack Event Registry - The Hack Event Registry is an accessible resource for learning about past DeFi vulnerabilities/exploits and helping prevent them in the future. The goal is to support the DeFi ecosystem by documenting and learning from all past hacks/technical bugs/exploits. With better historical information and learning, risk will be priced more fairly and accurately.
 * Bug Bounties on Gitcoin 
 

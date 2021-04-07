@@ -1,7 +1,7 @@
 # DeFi Risk Tools List
 A list of the available tools, projects, and protocols for analyzing and managing risk within DeFI.
 
-Creation of this list was spurred by folks at [ArmorFi](https://armor.fi/) and [ConsenSys](https://consensys.net/) who saw a need for better sharing of tools, standards, and development patterns to encourage the safe and continued growth of the DeFi ecosystem.
+Creation of this list was spurred by folks at [ArmorFi](https://armor.fi/) and [ConsenSys](https://consensys.net/) who saw a need for better sharing of tools, standards, and development patterns to support the safe growth of the DeFi ecosystem. We hope the list is useful for DeFi protocols, whitehate hackers, developers, auditors, and users under the common goal of making DeFi safer for current and future adopters.
 
 Note that these resources are focused on technical, centralization, and liquidity risk of DeFi protocols, **NOT Price risk of tokens.**
 
@@ -23,6 +23,8 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Economic Safety Grade from DeFi Pulse & Gauntlet](https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/) - A 1 to 100 grade to quantify and compare the economic risks of using on-chain protocols
 * [DeFi Safety](https://defisafety.com/) - A 1-100 rating of smart contract quality and safety for DeFi apps
 * [Certik Security Scores](https://www.certik.org/) - A 1-100 score across on-chain monitoring, social sentiment, governance changes, and market volatility
+* [CER Security Score](https://cer.live/defi) - A 1-10 based on audits, bug bounties, and liquidity
+* [CoinGecko Trsut Score](https://www.coingecko.com/en/methodology) - A 1-10 on centralized exchanges as well as a Green/Yellow/Red rating the liquidity of certain trading pairs
 
 ## Hack Incident Reporting
 * [Rekt News](https://www.rekt.news/) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community
@@ -78,7 +80,10 @@ Financial Risk - Collateral falls below outstanding obligations, likely due to p
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Challenges to understand common DeFi vulnerabilities
 * [ImmuneFi](https://immunefi.com/) - Bug bounties on smart contract vulnerabilities
 
-## Further Work (To be discussed)
-* Hack Event Registry - The Hack Event Registry is an accessible resource for learning about past DeFi vulnerabilities/exploits and helping prevent them in the future. The goal is to support the DeFi ecosystem by documenting and learning from all past hacks/technical bugs/exploits. With better historical information and learning, risk will be priced more fairly and accurately.
-* Bug Bounties on Gitcoin 
-
+## Potential Further Work
+* Crowdsourced Content Updates on DeFi Risk from the community
+* Crowdscource updates and scoring of the Risk methodologies
+* Glossary/Defi risk knowledge base - Hacks vs exploits vs rugs vs scams, with detailed definitions and strategies to prevent these, but aso positive DeFi/DAO best practices for new and current projects to build on. Definition of DeFi risk factors used in the model
+* Hack Event Registry - An accessible resource for learning about past DeFi vulnerabilities/exploits and helping prevent them in the future
+* Bug Bounties - Aggregate bug bounties across protocols and provide funding for new bounties
+* Form a DeFi risk-focused DAO

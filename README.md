@@ -57,8 +57,7 @@ We hope that the resources below can help educate and evangelize the common meth
 * [Shield Finance](https://shieldfinance.net/)
 
 ## Developer Tools
-* Technical Risks
-  * [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
+* [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 * [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 * [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool
 * [Oyente](https://github.com/melonproject/oyente) - Alternative static smart contract security analysis

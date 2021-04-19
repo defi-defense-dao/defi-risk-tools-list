@@ -25,12 +25,13 @@ We hope that the resources below can help educate and evangelize the common meth
 * [DeFi Score](https://defiscore.io/) - A 1-10 grade on the smart contract, centralization, and financial risk of lending protocols
 * [Economic Safety Grade from DeFi Pulse & Gauntlet](https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/) - A 1-100 grade to quantify and compare the economic risks of using on-chain protocols
 * [DeFi Safety](https://defisafety.com/) - A 1-100 rating of smart contract quality and safety for DeFi apps
+* [Prime Rating](https://primerating.io/) - Letter rating (A+ to D) that represents the overall quality of a protocol based on publicly available data.
 * [Certik Security Scores](https://www.certik.org/) - A 1-100 score of protocols across on-chain monitoring, social sentiment, governance changes, and market volatility
 * [CER Security Score](https://cer.live/defi) - A 1-10 score on protocols based on audits, bug bounties, and liquidity
 * [CoinGecko Trsut Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs
 
 ## Hack Incident Reporting
-* [Rekt News](https://www.rekt.news/) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community
+* [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community
 * [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 

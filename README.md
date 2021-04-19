@@ -93,3 +93,5 @@ We hope that the resources below can help educate and evangelize the common meth
 
 ## Maintainers
 Creation of this list was spurred by the good folks at [ArmorFi](https://armor.fi/) and [ConsenSys Codefi](https://consensys.net/codefi/).
+
+If you'd like to collaborate or participate in a DeFi Safety DAO, DM us at [Corbin Page](https://twitter.com/corbpage) or [ArmorFi](https://twitter.com/armorfi).

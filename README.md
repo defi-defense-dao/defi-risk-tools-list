@@ -28,7 +28,7 @@ We hope that the resources below can help educate and evangelize the common meth
 * [Prime Rating](https://primerating.io/) - Letter rating (A+ to D) that represents the overall quality of a protocol based on publicly available data.
 * [Certik Security Scores](https://www.certik.org/) - A 1-100 score of protocols across on-chain monitoring, social sentiment, governance changes, and market volatility
 * [CER Security Score](https://cer.live/defi) - A 1-10 score on protocols based on audits, bug bounties, and liquidity
-* [CoinGecko Trsut Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs
+* [CoinGecko Trust Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs
 
 ## Hack Incident Reporting
 * [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community

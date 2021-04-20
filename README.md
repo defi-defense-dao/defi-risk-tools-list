@@ -35,6 +35,9 @@ We hope that the resources below can help educate and evangelize the common meth
 * [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape
 * [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 
+## DeFi Risk Research
+* [Gauntlet's Market Risk Assessment on Aave](https://gauntlet.network/reports/aave)
+
 ## Risk Management Projects & Protocols
 * [Nexus Mutual](https://nexusmutual.io/)
 * [ArmorFi](https://armor.fi/)

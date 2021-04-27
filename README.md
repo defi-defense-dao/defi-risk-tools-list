@@ -1,4 +1,4 @@
-# DeFi Risk Tools List
+# DeFi Risk Tools & Resources
 
 This is the first step in a larger initiative to create a collaborative DAO to increase safety and transparency for DeFi through a community-driven product risk history and scoring resource.
 

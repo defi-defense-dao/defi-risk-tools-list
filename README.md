@@ -79,6 +79,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [UNION](https://www.unn.finance)
 - [NSure](https://nsure.network/#/)
 - [Opium Network](https://opium.finance/)
+- [Insurace](https://landing.insurace.io/)
 
 ## Coming Soon
 

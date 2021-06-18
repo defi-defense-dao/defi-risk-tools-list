@@ -60,6 +60,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Rekt News](https://rekt.eth.link/leaderboard) - Anonymous platform for whistleblowers and DeFi detectives to present their information to the community.
 - [Blockchain Threat Intelligence](https://blockthreat.substack.com/) - Newsletter covering the latest security news, tools, events, vulnerabilities, and threats in the cryptocurrency landscape. Also [supports this repo.](https://github.com/openblocksec/blocksec-incidents)
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
+- [DeFi hacks snapshot from Dragonfly Capital](https://twitter.com/hosseeb/status/1405637755141431297?s=12) - Snapshot of 2021 hacks and transition from Ethereum mainnet to BSC
 
 ## DeFi Risk Research
 

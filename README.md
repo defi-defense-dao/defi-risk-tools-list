@@ -94,6 +94,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 
 ## Developer Tools
 
+- [Solidify by Coinbase](https://blog.coinbase.com/introducing-solidify-a-tool-to-automatically-detect-and-classify-smart-contract-security-risks-73a1338fdbbe) - Tool to detect and classify smart contract security risks
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers
 - [Mythril](https://github.com/ConsenSys/mythril) - Open-source EVM bytecode security analysis tool

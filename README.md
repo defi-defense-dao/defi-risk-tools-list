@@ -82,10 +82,10 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [NSure](https://nsure.network/#/)
 - [Opium Network](https://opium.finance/)
 - [Insurace](https://landing.insurace.io/)
+- [Cozy.finance](https://cozy.finance/)
 
 ## Coming Soon
 
-- [Cozy.finance](https://cozy.finance/)
 - [Tidal Finance](https://tidal.finance/)
 - [Protekt Protocol](https://www.protektprotocol.com/)
 - [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
@@ -94,6 +94,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 
 ## Developer Tools
 
+- [DEFIYIELD Safe ‘Risky Contract Manager’](https://blog.defiyield.app/presenting-the-new-defiyield-safe-risky-contract-manager-for-revoking-token-allowances-f8d804cff97) - Tool to revoke approvals to smart contracts
 - [Solidify by Coinbase](https://blog.coinbase.com/introducing-solidify-a-tool-to-automatically-detect-and-classify-smart-contract-security-risks-73a1338fdbbe) - Tool to detect and classify smart contract security risks
 - [CryptoFin Solidity Auditing Checklist](https://github.com/cryptofinlabs/audit-checklist) - A checklist of common findings, and issues to watch out for when auditing a contract for a mainnet launch.
 - [MythX](https://mythx.io/) - Security verification platform and tools ecosystem for Ethereum developers

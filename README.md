@@ -54,6 +54,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Certik Security Scores](https://www.certik.org/) - A 1-100 score of protocols across on-chain monitoring, social sentiment, governance changes, and market volatility.
 - [CER Security Score](https://cer.live/defi) - A 1-10 score on protocols based on audits, bug bounties, and liquidity.
 - [CoinGecko Trust Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs.
+- [Risk Ratings on Yearn Strategies](https://twitter.com/storming0x/status/1436851271755919360?s=21)
 
 ## Hack Incident Reporting
 

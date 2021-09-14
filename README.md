@@ -94,6 +94,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
 - [Shield Finance](https://shieldfinance.net/)
 - [Bridge Mutual](https://www.bridgemutual.io)
+- [Solace](https://solace.fi/)
 
 ## Developer Tools
 

@@ -63,6 +63,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 - [DeFi hacks snapshot from Dragonfly Capital](https://twitter.com/hosseeb/status/1405637755141431297?s=12) - Snapshot of 2021 hacks and transition from Ethereum mainnet to BSC
 - [Bad Things™ (Crypto Security)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit#gid=1545239187) - List of DeFi hacks from [@tayvano](https://twitter.com/tayvano)
+- [DEFI YIELDS's Rekt Database](https://blog.defiyield.app/announcing-the-worlds-first-defi-rekt-database-271c6c2a8f7a)
 
 ## DeFi Risk Research
 

@@ -87,6 +87,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Opium Network](https://opium.finance/)
 - [Insurace](https://landing.insurace.io/)
 - [Cozy.finance](https://cozy.finance/)
+- [Clarity Protocol](https://clarity-protocol.com/)
 
 ## Coming Soon
 

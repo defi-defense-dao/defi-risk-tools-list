@@ -55,6 +55,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [CER Security Score](https://cer.live/defi) - A 1-10 score on protocols based on audits, bug bounties, and liquidity.
 - [CoinGecko Trust Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs.
 - [Nexus Mutual Community-Driven Risk Assessments](https://github.com/NexusRiskHub/risk-assessments) - A low-critical risk rating of Nexus Mutual supported protocols. 
+- [Risk Ratings on Yearn Strategies](https://twitter.com/storming0x/status/1436851271755919360?s=21)
 
 ## Hack Incident Reporting
 
@@ -63,6 +64,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Blockchain Graveyard](https://magoo.github.io/Blockchain-Graveyard/) - A list of all massive security breaches or thefts involving blockchains.
 - [DeFi hacks snapshot from Dragonfly Capital](https://twitter.com/hosseeb/status/1405637755141431297?s=12) - Snapshot of 2021 hacks and transition from Ethereum mainnet to BSC
 - [Bad Things™ (Crypto Security)](https://docs.google.com/spreadsheets/d/1ZEEAmXjpN8kL9BvITg9GKu-dbeUra6c14YLpLkCp5Zo/edit#gid=1545239187) - List of DeFi hacks from [@tayvano](https://twitter.com/tayvano)
+- [DEFI YIELDS's Rekt Database](https://blog.defiyield.app/announcing-the-worlds-first-defi-rekt-database-271c6c2a8f7a)
 
 ## DeFi Risk Research
 
@@ -86,6 +88,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Opium Network](https://opium.finance/)
 - [Insurace](https://landing.insurace.io/)
 - [Cozy.finance](https://cozy.finance/)
+- [Clarity Protocol](https://clarity-protocol.com/)
 
 ## Coming Soon
 
@@ -94,6 +97,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Umbrella Protocol](https://medium.com/yam-finance/introducing-the-umbrella-protocol-by-yam-e89109548c6d)
 - [Shield Finance](https://shieldfinance.net/)
 - [Bridge Mutual](https://www.bridgemutual.io)
+- [Solace](https://solace.fi/)
 
 ## Developer Tools
 

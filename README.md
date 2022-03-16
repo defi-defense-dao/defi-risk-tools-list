@@ -6,7 +6,7 @@ Providing a credible risk assessment platform helps highlight  innovators who ar
 
 Below is a list of the available tools, projects, and protocols for analyzing and managing risk within DeFi.
 
-Note that this list is focused on technical, centralization, and liquidity risk of DeFi protocols, **NOT price risk of tokens.**
+Note that this list is focused on technical, centralization, and liquidity risk of DeFi protocols, **_NOT price risk of tokens_.**
 
 We hope that better sharing of tools, standards, and development patterns will support the safe growth of the DeFi ecosystem overall. We also hope that DeFi protocols, white hat hackers, developers, auditors, and users can unite around the common goal of making DeFi safer for current and future adopters.
 

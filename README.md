@@ -71,6 +71,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Gauntlet's Market Risk Assessment on Aave](https://gauntlet.network/reports/aave)
 - [RugDoc](https://rugdoc.io/)
 - [DeFi Yield's Audit tracker](https://defiyield.app/audits)
+- [Manifold Finance's DeFi Threat Matrix](https://github.com/manifoldfinance/defi-threat)
 
 ## Risk Management Projects & Protocols
 

@@ -125,6 +125,11 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 
 ## Risk and Security Resources
 
+- [OpenZeppelin's Security Best Practices](https://docs.openzeppelin.com/defender/advisor)
+- [Smart COntract Vulnerability List](https://github.com/sirhashalot/SCV-List)
+- [ConsenSys' Blockchain Security Database](https://consensys.github.io/blockchainSecurityDB/)
+- [Smart Contract Weaness Registry](https://swcregistry.io/)
+- [Known attacks](https://securing.github.io/SCSVS/1.2/0x22-V13-Known-Attacks.html)
 - [Gemini's Cryptopedia](https://www.gemini.com/cryptopedia/explore#security) - Accessible encyclopedia on crypto security topics.
 - [Paradigm's CFT](https://ctf.paradigm.xyz/) - Challenges to learn common smart contract failures.
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Challenges to understand common DeFi vulnerabilities.

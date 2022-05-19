@@ -134,6 +134,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Paradigm's CFT](https://ctf.paradigm.xyz/) - Challenges to learn common smart contract failures.
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) - Challenges to understand common DeFi vulnerabilities.
 - [ImmuneFi](https://immunefi.com/) - Bug bounties on smart contract vulnerabilities.
+- [Chainabuse](https://www.chainabuse.com/)
 
 ## Potential Further Work and Tools
 

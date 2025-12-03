@@ -122,6 +122,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+- [Trident](https://github.com/Ackee-Blockchain/trident) - First and only fuzzing framework for Solana smart contracts. Performs manually-guided fuzzing with flow-based sequences and property-based testing to discover vulnerabilities.
 
 ## Risk and Security Resources
 

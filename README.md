@@ -122,6 +122,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A Collection of Vulnerabilities in ERC20 Smart Contracts With Tokens Affected
 - [Free Smart Contract Security Audit](https://callisto.network/smart-contract-audit/) - Free smart contract security audits from Callisto Network
 - [Piet](https://piet.slock.it) - A visual Solidity architecture analyzer
+- [Base Token Safety Scanner](https://base-token-scanner.onrender.com) - Free, open-source API that analyzes Base chain ERC-20 tokens for rug pull risks, honeypots, ownership issues, and security flags. Built for AI agents and DeFi traders. ([GitHub](https://github.com/0xVarius/base-token-scanner))
 
 ## Risk and Security Resources
 

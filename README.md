@@ -100,6 +100,17 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Bridge Mutual](https://www.bridgemutual.io)
 - [Solace](https://solace.fi/)
 
+## Consumer Risk Scanners
+
+Token safety scanners and rug-pull checkers aimed at end-users screening a contract before buying.
+
+- [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Free token safety scanner and rug pull checker with a 0-100 risk score across Solana, Ethereum, Base, BSC, Arbitrum, and Polygon. Honeypot simulation, mint-authority detection, liquidity-lock verification, and holder-concentration analysis. No signup, public REST API.
+- [RugCheck.xyz](https://rugcheck.xyz/) - Solana-focused token risk scanner with public API.
+- [TokenSniffer](https://tokensniffer.com/) - Automated scam detection and contract auditing across 15 chains.
+- [Honeypot.is](https://honeypot.is/) - Honeypot detector for BSC and Ethereum.
+- [GoPlus Security](https://gopluslabs.io/) - Multi-chain security risk API used by DEXScreener, Sushi, and others.
+- [De.Fi Scanner](https://de.fi/scanner) - Multi-chain smart contract scanner covering tokens and NFTs.
+
 ## Developer Tools
 
 - [DEFIYIELD Safe ‘Risky Contract Manager’](https://blog.defiyield.app/presenting-the-new-defiyield-safe-risky-contract-manager-for-revoking-token-allowances-f8d804cff97) - Tool to revoke approvals to smart contracts

@@ -47,6 +47,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 
 ## Risk Ratings
 
+- [Pharos](https://pharos.watch/) - Stablecoin risk analytics dashboard with peg stress monitoring, liquidity analysis, safety scores, blacklist tracking, and DEWS incident alerts.
 - [DeFi Score](https://defiscore.io/) - A 1-10 grade on the smart contract, centralization, and financial risk of lending protocols.
 - [Economic Safety Grade from DeFi Pulse & Gauntlet](https://defipulse.com/blog/introducing-the-defi-pulse-economic-safety-grade/) - A 1-100 grade to quantify and compare the economic risks of using on-chain protocols.
 - [DeFi Safety](https://defisafety.com/) - A 1-100 rating of smart contract quality and safety for DeFi apps.

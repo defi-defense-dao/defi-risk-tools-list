@@ -90,6 +90,7 @@ Eventually, a DeFi Safety DAO would seek to solve key issues by:
 - [Insurace](https://landing.insurace.io/)
 - [Cozy.finance](https://cozy.finance/)
 - [Clarity Protocol](https://clarity-protocol.com/)
+- [DefiLPKit](https://defilpkit.com/)
 
 ## Coming Soon
 

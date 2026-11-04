@@ -233,6 +233,7 @@ A list of DeFi ratings, which the DAO can leverage:
 *   [Certik Security Scores](https://www.certik.org/) - A 1-100 score of protocols across on-chain monitoring, social sentiment, governance changes, and market volatility
 *   [CER Security Score](https://cer.live/defi) - A 1-10 score on protocols based on audits, bug bounties, and liquidity
 *   [CoinGecko Trust Score](https://www.coingecko.com/en/methodology) - A 1-10 score on centralized exchanges as well as a Green/Yellow/Red rating of the liquidity of certain trading pairs
+* [DefiLPKit](https://defilpkit.com) - Free read-only LP calculator: fee APR, estimated net yield after impermanent loss and gas, and range scenarios for Uniswap v3, PancakeSwap v3, Aerodrome and Raydium pools.
 
 ### Crowdsourced Audits
 
